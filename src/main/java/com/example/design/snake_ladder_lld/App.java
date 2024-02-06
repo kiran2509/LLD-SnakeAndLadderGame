@@ -15,6 +15,7 @@ import com.example.design.snake_ladder_lld.service.GameService;
  * Hello world!
  *
  */
+//Main Application of code
 public class App 
 {
     public static void main( String[] args )
